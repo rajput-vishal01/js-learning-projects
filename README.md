@@ -15,3 +15,17 @@ Welcome to my JavaScript learning projects repository! This repository contains 
 9. **Hit Box Game**: A game where the user hits a target bubble to increase their score, with a game over message displayed when time is up.
 10. **Rock-Paper-Scissors Game**: The classic rock-paper-scissors game implemented in JavaScript.
 11. **Tic-Tac-Toe Game**: The classic tic-tac-toe game implemented in JavaScript.
+
+
+
+## Note on GitHub Pages
+
+Please note that GitHub Pages has not been configured for these specific sections of the repository. If you wish to view the contents of this repository, you can clone it to your local machine and explore the different sections.
+
+### How to Clone and View
+
+1. **Clone the Repository:**
+   Open your terminal and use the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/<username>/<repository>.git
